@@ -6,7 +6,7 @@ import json
 import requests
 
 # save the key in a variable
-API_KEY = 'AIzaSyDOorAGDAn6noddz7AjQzwx3xFrgeHtcV0'
+API_KEY = ''
 
 # create a client
 map_client = googlemaps.Client(key=API_KEY)
