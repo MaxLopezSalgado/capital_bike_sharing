@@ -1,7 +1,7 @@
 import csv
 import pandas as pd 
 from pprint import pprint # pip install pprintpp
-import googlemaps # pip install googlemaps
+import gmaps # pip install googlemaps
 import json 
 import requests
 
