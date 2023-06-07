@@ -23,6 +23,6 @@ By applying these techniques, we gained valuable insights into bike usage patter
 
 To get a comprehensive overview of the project, please check out the [presentation](https://docs.google.com/presentation/d/16Be6PCbYlEYCRZDVwhnmD-bKaGoXuirvMLQARd8zNAk/edit?usp=sharing) I created on Google Drive.
 
-To ensure a well-structured project, I have deployed the HTML maps I created for this portfolio in a separate repository. You can access the deployed maps by following this [Repository](https://github.com/MaxLopezSalgado/capital-bike-sharing-maps).
+To ensure a well-structured project, I have deployed the HTML maps I created for this portfolio in a separate repository. You can access the deployed maps by following this [repository](https://github.com/MaxLopezSalgado/capital-bike-sharing-maps).
 
 This project serves as a demonstration of my data analysis skills and showcases my ability to extract meaningful insights from complex datasets.
