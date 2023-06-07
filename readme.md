@@ -18,6 +18,8 @@ By applying these techniques, we gained valuable insights into bike usage patter
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Geopy
+- Folium
 
 To get a comprehensive overview of the project, please check out the [presentation](https://docs.google.com/presentation/d/16Be6PCbYlEYCRZDVwhnmD-bKaGoXuirvMLQARd8zNAk/edit?usp=sharing) I created on Google Drive.
 
